@@ -1,13 +1,13 @@
 ## Hi there 👋  ![](https://komarev.com/ghpvc/?username=thephenomenal10)
 
 
-<a href="https://twitter.com/believeInJha">
+<a href="https://twitter.com/SainiSahyog">
   <img align="left" alt="Sahyog's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sahyog-saini-4b511617b/">
   <img align="left" alt="Sahyog's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/believeInJha">
+<a href="https://github.com/thephenomenal10">
   <img align="left" alt="Sahyog's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/the_phenomenal.__/">
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning React Js.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Animations.
-- 💬 Ask me about Flutter and Dart.
+- 💬 Ask me about Flutter and Dart. 
 - 📫 How to reach me:  LinkedIn - [@SahyogSaini](https://www.linkedin.com/in/sahyog-saini-4b511617b/)   Twitter - [@SainiSahyog](https://twitter.com/SainiSahyog) 
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Wubba Lubba Dub Dub!
