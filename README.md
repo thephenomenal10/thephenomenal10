@@ -7,9 +7,7 @@
 <a href="https://www.linkedin.com/in/sahyog-saini-4b511617b/">
   <img align="left" alt="Sahyog's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/thephenomenal10">
-  <img align="left" alt="Sahyog's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
 <a href="https://www.instagram.com/the_phenomenal.__/">
   <img align="left" alt="Sahyog's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
