@@ -45,6 +45,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thephenomenal10&show_icons=true&theme=dracula&line_height=27" alt="Sahyog's github stats"/>
 </a>
 
+<a href="https://github.com/thephenomenal10">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thephenomenal&theme=dark&v=2&layout=compact" alt="Sahyog's github stats"/>
+</a>
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
