@@ -26,7 +26,7 @@
 - 💬 Ask me about Flutter and Dart. 
 - 📫 How to reach me:  LinkedIn - [@SahyogSaini](https://www.linkedin.com/in/sahyog-saini-4b511617b/)   Twitter - [@SainiSahyog](https://twitter.com/SainiSahyog) 
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: Wubba Lubba Dub Dub!
+- ⚡ Fun fact: It’s all 0’s and 1’s !
 
 **Languages and Tools:**  
 
@@ -35,6 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
 <a href="https://github.com/thephenomenal10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thephenomenal10&theme=dark&hide_langs_below=1" />
