@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on Nest JS.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on LinkedIn.
-- 💬 Ask me about Flutter and Dart. 
+- 💬 Ask me about Flutter. 
 - 📫 How to reach me:  LinkedIn - [@SahyogSaini](https://www.linkedin.com/in/sahyog-saini-4b511617b/)   Twitter - [@SainiSahyog](https://twitter.com/SainiSahyog) 
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: It’s all 0’s and 1’s !
