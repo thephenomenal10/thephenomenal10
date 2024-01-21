@@ -44,6 +44,7 @@
 <a href="https://github.com/thephenomenal10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thephenomenal10&theme=dark&hide_langs_below=1" />
 </a>
+<a href="https://app.daily.dev/phenomenal"><img src="https://api.daily.dev/devcards/7b98209dae5b45bb95fe36430471aa3f.png?r=8si" width="400" alt="Sahyog Saini's Dev Card"/></a>
 <a href="https://github.com/thephenomenal10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thephenomenal10&show_icons=true&theme=dark&line_height=27" alt="Sahyog's github stats"/>
 </a>
