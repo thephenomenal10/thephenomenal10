@@ -14,10 +14,7 @@
 <a href="https://www.youtube.com/channel/UC-7FC_njP5pzjnQZah6YmfQ?view_as=subscriber">
   <img align="left" alt="Sahyog's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
 <br/>
-<br/>
-
 <a href="https://app.daily.dev/phenomenal"><img src="https://api.daily.dev/devcards/v2/nzVlN2PkyUYHwHUXszcs5.png?type=default&r=qab" width="270" height="290" align="right" alt="Sahyog Saini's Dev Card"/></a>
 
 
