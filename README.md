@@ -5,7 +5,7 @@
   <img align="left" alt="Sahyog's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
-<a href="https://app.daily.dev/phenomenal"><img src="https://api.daily.dev/devcards/v2/nzVlN2PkyUYHwHUXszcs5.png?type=default&r=qab" width="250" height="250" alt="Sahyog Saini's Dev Card"/></a>
+<a href="https://app.daily.dev/phenomenal"><img src="https://api.daily.dev/devcards/v2/nzVlN2PkyUYHwHUXszcs5.png?type=default&r=qab" width="250" height="250" align="left" alt="Sahyog Saini's Dev Card"/></a>
 <a href="https://www.linkedin.com/in/sahyog-saini-4b511617b/">
   <img align="left" alt="Sahyog's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
