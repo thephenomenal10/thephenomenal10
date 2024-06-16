@@ -44,6 +44,7 @@
 <a href="https://github.com/thephenomenal10">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thephenomenal10&theme=dark&hide_langs_below=1" width="320" height="370" />
 </a>
+<br/>
 <a href="https://github.com/thephenomenal10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thephenomenal10&show_icons=true&theme=dark&line_height=27" alt="Sahyog's github stats"/>
 </a>
