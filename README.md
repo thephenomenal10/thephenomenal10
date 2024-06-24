@@ -53,6 +53,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thephenomenal&theme=dark&v=2&layout=compact" alt="Sahyog's github stats"/>
 </a>
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by ⭐️ some of the repositories!
 
 </div>
