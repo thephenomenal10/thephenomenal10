@@ -18,13 +18,13 @@
 <a href="https://app.daily.dev/phenomenal"><img src="https://api.daily.dev/devcards/v2/nzVlN2PkyUYHwHUXszcs5.png?type=default&r=qab" width="280" height="290" align="right" alt="Sahyog Saini's Dev Card"/></a>
 <br/>
 
-- 🔭 I’m currently working on Nest JS.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 I’m currently learning NestJS.
 - 👯 I’m looking to collaborate on LinkedIn.
-- 💬 Ask me about Flutter. 
+- 💬 Ask me about JS. 
 - 📫 How to reach me:  LinkedIn - [@SahyogSaini](https://www.linkedin.com/in/sahyog-saini-4b511617b/)   Twitter - [@SainiSahyog](https://twitter.com/SainiSahyog) 
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: It’s all 0’s and 1’s !
+- ⚡ Fun fact: It’s all 0’s and 1’s!
 
 **Languages and Tools:**  
 
