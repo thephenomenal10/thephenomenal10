@@ -23,8 +23,7 @@
 - 👯 I’m looking to collaborate on LinkedIn.
 - 💬 Ask me about JS. 
 - 📫 How to reach me:  LinkedIn - [@SahyogSaini](https://www.linkedin.com/in/sahyog-saini-4b511617b/)   Twitter - [@SainiSahyog](https://twitter.com/SainiSahyog) 
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: It’s all 0’s and 1’s!
+- ⚡ It’s all 0’s and 1’s!
 
 **Languages and Tools:**  
 
